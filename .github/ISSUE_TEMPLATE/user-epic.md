@@ -1,7 +1,7 @@
 ---
 name: User Epic
 about: Default User Epic Template
-title: "'USER EPIC : <TITLE>'"
+title: 'USER EPIC : <TITLE>'
 labels: ''
 assignees: ''
 
